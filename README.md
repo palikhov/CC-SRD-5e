@@ -6,7 +6,7 @@ These files are conversions of the [Systems Reference Document (SRD) v5.1](https
 
 Conversion from PDF is tricky, and the files may contain some formatting errors. If you find any, please open an issue or pull request.
 
-The team at [Tabyltop](https://tabyltop.com) plans to release additional machine-readable extractions from the SRD in the near future including JSON lists of monsters, spells, and items.
+The team at [CYBORGS&MAGES](https://cyborgsandmages.com/) plans to release additional machine-readable extractions from the SRD in the near future including JSON lists of monsters, spells, and items.
 
 # License
 
@@ -21,7 +21,7 @@ own work:
       at https://creativecommons.org/licenses/by/4.0/legalcode.
 
       Conversion of this document from the original PDF to other formats was performed by the team at
-      Tabyltop (https://www.tabyltop.com).
+      CYBORGS&MAGES (https://cyborgsandmages.com/).
 
 Please do not include any other attribution regarding Wizards other than that provided above. You may,
 however, include a statement on your work that it is “compatible with fifth edition” or “5E compatible.”
